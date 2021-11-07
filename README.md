@@ -3,7 +3,7 @@ Checkout here (http://livecricket.rf.gd/)
 Basically Its a webpage that first fetches data with help of PHP arrays displays live cricket score .Fetches data using API, technologies used - CSS,HTML,JS,PHP.
 
 ## Technologies Used
-1. [infinityfree.net] (https://app.infinityfree.net/)One of those websites which provides free domainname,hosting and probably SSL certificates too & i hosted the webpage here.
+1. [infinityfree.net](https://app.infinityfree.net/) One of those websites which provides free domainname,hosting and probably SSL certificates too & i hosted the webpage here.Also the fact that made me host it here is my index file was in .php format and which most of hosting services dont allow it, whereas infinityfree did.
 
 2. Programming Languages used: HTML,CSS,JS,PHP
 
