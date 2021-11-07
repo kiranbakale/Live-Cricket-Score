@@ -1,6 +1,6 @@
 # Live-Cricket-Score
 Checkout here (http://livecricket.rf.gd/)
-Basically Its a webpage that first fetches data with help of PHP arrays displays live cricket score .Fetches data using API, technologies used - CSS,HTML,JS,PHP.
+Basically Its a webpage that fetches data with help of PHP arrays and displays live cricket score .Fetches data using API.
 
 ## Technologies Used
 1. [infinityfree.net](https://app.infinityfree.net/) One of those websites which provides free domainname,hosting and probably SSL certificates too & i hosted the webpage here.Also the fact that made me host it here is my index file was in .php format and which most of hosting services dont allow it, whereas infinityfree did.
@@ -12,7 +12,7 @@ Basically Its a webpage that first fetches data with help of PHP arrays displays
 ## Output
 ![Output](livecricket.jpg)
  
-## Make sure to make following changes in index.php file
+## Make sure to do following changes in index.php file
 ```
   $data=file_get_contents('https://cricket-api.vercel.app/cri.php?url=https://www.cricbuzz.com/live-cricket-scores/38137/40th-match-super-12-group-2-icc-mens-t20-world-cup-2021');
 
